@@ -2,6 +2,8 @@
 
 # Deploying Microservices with Amazon ECS, AWS CloudFormation, and an Application Load Balancer
 
+ [![cloudformation-launch-button](images/cloudformation-launch-stack.png)]
+
 This reference architecture provides a set of YAML templates for deploying microservices to [Amazon EC2 Container Service (Amazon ECS)](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html) with [AWS CloudFormation](https://aws.amazon.com/cloudformation/).
 
 You can launch this CloudFormation stack in your account:
